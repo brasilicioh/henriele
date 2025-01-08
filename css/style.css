@@ -4,3 +4,7 @@ body {
 .primeiro {
     text-align: center;
 }
+div > img.foto {
+    width: 100px;
+    height: auto;
+}
