@@ -1,6 +1,13 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+.primeiro {
+    text-align: center;
+}
+.segundo {
+    margin: 0;
+    height: 100vh;
+}
 button {
     background-color: rgb(231, 231, 231);
     padding: 10px 20px;
@@ -8,6 +15,9 @@ button {
     cursor: pointer;
     margin: 10px;
 }
-.primeiro {
-    text-align: center;
+.imagem-topo {
+    height: 45%;
+    background-image: url('../img/nos/viagemjampabeijoonibus.jpg');
+    background-size: cover;
+    background-position: center;
 }
