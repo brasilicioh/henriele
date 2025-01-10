@@ -21,3 +21,17 @@ button {
     background-size: cover;
     background-position: center;
 }
+.resto-pagina {
+    height: 100%;
+    background-color: rgb(180, 0, 0);
+    text-align: center;
+}
+nav {
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 1%;
+    background-color: white;
+}
+a {
+    margin: 0px 15px 0px 15px;
+}
