@@ -7,6 +7,7 @@ body {
 .segundo {
     margin: 0;
     height: 100vh;
+    background-color: rgb(180, 0, 0);
 }
 button {
     background-color: rgb(231, 231, 231);
@@ -14,6 +15,10 @@ button {
     font-size: larger;
     cursor: pointer;
     margin: 10px;
+}
+.parte-cima {
+    height: 100%;
+    background-color: white;
 }
 .imagem-topo {
     height: 45%;
@@ -23,15 +28,5 @@ button {
 }
 .resto-pagina {
     height: 100%;
-    background-color: rgb(180, 0, 0);
     text-align: center;
-}
-nav {
-    margin-left: 30%;
-    margin-right: 30%;
-    padding: 1%;
-    background-color: white;
-}
-a {
-    margin: 0px 15px 0px 15px;
 }
